@@ -1,2 +1,2 @@
 # RegEx-Cheat-Sheet
-Regular Expression Cheat Sheet for perl
+Regular Expression Cheat Sheet
